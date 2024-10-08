@@ -52,17 +52,15 @@
 - [Java学习资源](#java学习资源)
 - [Java书籍推荐](#java书籍推荐)
 - [实战项目推荐](#实战项目推荐)
-- [程序人生](#程序人生)
 
 
 ## 个人经验
-- [应届生如何准备校招，用我这一年的校招经历告诉你](https://sihai.blog.csdn.net/article/details/114258312?spm=1001.2014.3001.5502)
 - [【大学到研究生自学Java的学习路线】这是一份最适合普通大众、非科班的路线，帮你快速找到一份满意的工作](https://sihai.blog.csdn.net/article/details/105964718?spm=1001.2014.3001.5502)
 - [两个月的面试真实经历，告诉大家如何能够进入大厂工作？](https://sihai.blog.csdn.net/article/details/105807642)
 
 ## 项目准备
 
-- [我的个人项目介绍模板](docs/interview/自我介绍和项目介绍.md)
+- [个人项目介绍模板](docs/interview/自我介绍和项目介绍.md)
 - [本人面试两个月真实经历：面试了20家大厂之后，发现这样介绍项目经验，显得项目很牛逼！](https://sihai.blog.csdn.net/article/details/105854760)
 - [项目必备知识及解决方案](docs/project/秒杀项目总结.md) 
 
@@ -350,13 +348,6 @@
 
 - [找工作，没有上的了台面的项目怎么办？](https://mp.weixin.qq.com/s/0oK43_z99pVY9dYVXyIeiw)
 - [Java 实战项目推荐](https://github.com/hello-go-maker/cs-learn-source)
-
-## 程序人生
-
-- [我想是时候跟大学告别了](https://blog.csdn.net/sihai12345/article/details/86934341)
-- [坚持，这两个字非常重要！](https://blog.csdn.net/sihai12345/article/details/89507366)
-- [关于考研，这是我给大家的经验](https://blog.csdn.net/sihai12345/article/details/88548630)
-- [从普通二本到研究生再到自媒体的年轻人，这是我的故事](https://segmentfault.com/a/1190000020317748)
 
 
 
